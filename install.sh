@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 set -eu
 
-repo="${LANVERIS_CLI_REPO:-XuZhaoTong/lanveris-cli}"
+repo="${LANVERIS_CLI_REPO:-lanveris/lanveris-cli}"
 version="${LANVERIS_VERSION:-latest}"
 bin_dir="${LANVERIS_BIN_DIR:-$HOME/.local/bin}"
 tmp_dir="$(mktemp -d)"

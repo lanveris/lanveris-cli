@@ -5,7 +5,7 @@ Public binary releases for the Lanveris CLI.
 Install:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/XuZhaoTong/lanveris-cli/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/lanveris/lanveris-cli/main/install.sh | sh
 ```
 
 By default the installer downloads the latest release and installs `lanveris` to `~/.local/bin`.
